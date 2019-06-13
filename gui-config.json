@@ -1,0 +1,92 @@
+{
+	"configs" : [
+		{
+			"remarks" : "",
+			"id" : "EE11A896D98F8C18559DE76C36A3D5FE",
+			"server" : "82.129.30.154",
+			"server_port" : 1888,
+			"server_udp_port" : 0,
+			"password" : "kcssr.id",
+			"method" : "aes-256-cfb",
+			"protocol" : "auth_aes128_md5",
+			"protocolparam" : "3393:0aFvfq",
+			"obfs" : "http_simple",
+			"obfsparam" : "340b73393.apple.com",
+			"remarks_base64" : "",
+			"group" : "FreeSSR-public",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "",
+			"id" : "EE11A896D98F8C18559DE76C36A3D5FE",
+			"server" : "47.100.241.65",
+			"server_port" : 20135,
+			"server_udp_port" : 0,
+			"password" : "0aFvfq",
+			"method" : "aes-256-cfb",
+			"protocol" : "auth_aes128_md5",
+			"protocolparam" : "",
+			"obfs" : "tls1.2_ticket_auth",
+			"obfsparam" : "",
+			"remarks_base64" : "",
+			"group" : "FreeSSR-public",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "",
+			"id" : "827AD67F243C28F0F9D22DF28E558B9C",
+			"server" : "39.105.39.194",
+			"server_port" : 20135,
+			"server_udp_port" : 0,
+			"password" : "0aFvfq",
+			"method" : "aes-256-cfb",
+			"protocol" : "auth_aes128_md5",
+			"protocolparam" : "",
+			"obfs" : "tls1.2_ticket_auth",
+			"obfsparam" : "",
+			"remarks_base64" : "",
+			"group" : "FreeSSR-public",
+			"enable" : true,
+			"udp_over_tcp" : false
+		}
+	],
+	"index" : 0,
+	"random" : true,
+	"sysProxyMode" : 3,
+	"shareOverLan" : false,
+	"localPort" : 1080,
+	"localAuthPassword" : "JK7kQi5WzH8os_zqLgOZ",
+	"dnsServer" : "",
+	"reconnectTimes" : 2,
+	"randomAlgorithm" : 3,
+	"randomInGroup" : false,
+	"TTL" : 0,
+	"connectTimeout" : 5,
+	"proxyRuleMode" : 2,
+	"proxyEnable" : false,
+	"pacDirectGoProxy" : false,
+	"proxyType" : 0,
+	"proxyHost" : null,
+	"proxyPort" : 0,
+	"proxyAuthUser" : null,
+	"proxyAuthPass" : null,
+	"proxyUserAgent" : null,
+	"authUser" : null,
+	"authPass" : null,
+	"autoBan" : false,
+	"sameHostForSameTarget" : false,
+	"keepVisitTime" : 180,
+	"isHideTips" : false,
+	"nodeFeedAutoUpdate" : true,
+	"serverSubscribes" : [
+
+	],
+	"token" : {
+
+	},
+	"portMap" : {
+
+	}
+}
